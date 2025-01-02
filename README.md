@@ -3,7 +3,7 @@
 Descrição:
 Este repositório contém códigos básicos em C++ para controlar um robô Arduino. Os códigos incluem funcionalidades para fazer o robô andar, ligar e desligar luzes, e se mover em todas as direções. Este projeto foi desenvolvido como parte de um estudo autodidata sobre Arduino, explorando conceitos de Engenharia da Computação.
 
-## Funcionalidades:
+## 📑| Funcionalidades:
 
 1. Andar para Frente e para Trás
 O código para esta funcionalidade permite que o robô se mova para frente e para trás. O movimento é alternado entre andar e parar, com tempos definidos para cada ação. Esta funcionalidade é essencial para a navegação básica do robô.
