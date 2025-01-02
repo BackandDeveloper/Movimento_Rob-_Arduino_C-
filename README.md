@@ -16,5 +16,5 @@ O código para esta funcionalidade permite que o robô se mova em todas as dire�
 
 ## 💡| Conclusão
 
-Este repositório fornece exemplos básicos de como controlar um robô Arduino usando a linguagem de programação C++. Os códigos incluem funcionalidades essenciais para movimentação e controle de luzes, permitindo que você expanda e personalize seu projeto de robô conforme necessário!
+robô Arduino usando a linguagem de programação C++. Os códigos incluem funcionalidades essenciais para movimentação e controle de luzes, permitindo que você expanda e personalize seu projeto de robô conforme necessário!
 
