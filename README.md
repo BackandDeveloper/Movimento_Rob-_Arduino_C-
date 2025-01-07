@@ -1,6 +1,6 @@
 ## 🤖| Projeto Robô Arduino
 
-## | Descrição:
+## 📋| Descrição:
 Este repositório contém códigos básicos em C++ para controlar um robô Arduino. Os códigos incluem funcionalidades para fazer o robô andar, ligar e desligar luzes, e se mover em todas as direções. Este projeto foi desenvolvido como parte de um estudo autodidata sobre Arduino, explorando conceitos de Engenharia da Computação.
 
 ## 📑| Funcionalidades:
